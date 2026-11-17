@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello, I'm Emmanuel
+I am an IT Support professional who is passionate about technology, infrastructure and solving technical problems.
+I use hands-on labs and practical projects to develop my skills in networking, systems administration, cybersecurity and cloud technologies. 
 
 <!--
 **1Mannyship/1Mannyship** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
